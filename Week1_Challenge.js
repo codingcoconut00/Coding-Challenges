@@ -7,4 +7,4 @@ let triHeight=100;
 function triArea(triBase, triHeight) {
  return triBase * triHeight/2};
  
-console.log(triArea(triBase, triHeight));
+console.log(triArea(12, 5));
